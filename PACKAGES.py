@@ -41,6 +41,7 @@ print(data.strftime("%S")) #seconds
 print(data.strftime("%c"))
 print(data.strftime("%C"))
 print("EOD")
+print("New line")
 
 
 
