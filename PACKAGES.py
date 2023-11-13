@@ -40,6 +40,7 @@ print(data.strftime("%p")) #am/pm
 print(data.strftime("%S")) #seconds
 print(data.strftime("%c"))
 print(data.strftime("%C"))
+print("EOD")
 
 
 
