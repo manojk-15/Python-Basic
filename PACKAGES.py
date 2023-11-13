@@ -41,8 +41,11 @@ print(data.strftime("%S")) #seconds
 print(data.strftime("%c"))
 print(data.strftime("%C"))
 print("EOD")
+
+print("New line")
 for i in range(1-10):
     print("Hello")
+
 
 
 
